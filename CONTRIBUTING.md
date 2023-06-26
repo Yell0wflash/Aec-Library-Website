@@ -14,9 +14,9 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 
 1. Fork and clone the repository. 
    git clone https://github.com/your_user_name/Aec-Library-Website.git
-   Fork [this] https://github.com/SauravMukherjee44/Aec-Library-Website repository.
+   Fork [this] https://github.com/Yell0wflash/Aec-Library-Website repository.
 2. Add a reference(remote) to the original repository to get all the changes from the remote.
-   git remote add upstream https://github.com/SauravMukherjee44/Aec-Library-Website.git
+   git remote add upstream https://github.com/Yell0wflash/Aec-Library-Website.git
 3. Navigate to the project directory :file_folder: cd College-Library-Website
 4. Check the remotes for this repository.
    git remote -v
