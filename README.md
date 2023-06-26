@@ -1,7 +1,7 @@
 <h1 align="center">College Library Website</h1>
 
 This is a College Library Website in which you can keep a record of all the books you have issued. ( In development Phase )
-<h2> Website: https://Yell0wflash.github.io/Aec-Library-Website/ </h2>
+<h2> Website: https://flash-aec-library.web.app </h2>
 
 
 So, Here you go!! Using this College Library Website you can keep a record of all your college Books and stuffs 🤩. Excited?
